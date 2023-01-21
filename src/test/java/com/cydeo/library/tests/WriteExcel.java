@@ -44,6 +44,7 @@ public class WriteExcel {
         for (int rowNum=0; rowNum<sheet.getLastRowNum(); rowNum++){
             if (sheet.getRow(rowNum).getCell(0).toString().equals("Mary")){
                 sheet.getRow(rowNum).getCell(1).setCellValue("Jones");
+
             }
         }
 
