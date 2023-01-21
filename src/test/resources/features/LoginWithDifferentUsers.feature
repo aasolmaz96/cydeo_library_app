@@ -11,7 +11,7 @@ Feature: Log in with different users
     Examples:
       | email             | password | username        |
       | student27@library | E1uZrsAu | Test Student 27 |
-      | student28@library | tJ93UQS3 | Test Student 288888 |
+      | student28@library | tJ93UQS3 | Test Student 28 |
       | student29@library | g8EyNm9B | Test Student 29 |
       | student30@library | QX6FWzj6 | Test Student 30 |
 

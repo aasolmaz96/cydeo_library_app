@@ -16,7 +16,7 @@ import org.junit.runner.RunWith;
                 "rerun:target/rerun.txt"
                 },
         dryRun = false,
-        tags = "@DiffUsersLogin"       //"@tag1 and @tag2"   -   "@tag1 and not @tag2"     -       "@tag1 or @tag2")
+        tags = ""       //"@tag1 and @tag2"   -   "@tag1 and not @tag2"     -       "@tag1 or @tag2")
 )
 
 public class CukesRunner {
